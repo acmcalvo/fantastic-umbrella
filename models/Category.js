@@ -1,4 +1,3 @@
-const { STRING } = require('mysql/lib/protocol/constants/types');
 const { Model, DataTypes } = require('sequelize');
 
 const sequelize = require('../config/connection.js');

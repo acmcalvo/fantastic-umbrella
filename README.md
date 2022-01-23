@@ -1,6 +1,6 @@
 <img src='https://img.shields.io/github/license/acmcalvo/README-Generator' >
 
-# E-commerce Back End Starter Code Fantistic Umbrella
+# E-commerce Back End Starter Code  / Fantistic Umbrella
 
 
   ## Table of Contents

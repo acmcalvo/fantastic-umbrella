@@ -22,9 +22,10 @@ This week challenge is to build the back end for an e-commerce site.
   
 https://user-images.githubusercontent.com/91921941/150698933-d313618f-3cf4-4b04-ad1a-3f4c093f457f.mp4
   
-  If you have trouble watching the demo video, please use this link:_ 
+  If you have trouble watching the demo video, please use this link:
+  ```
   https://watch.screencastify.com/v/1vC0KZdnjeGMf6rAVNLr
-
+```
 
   
   ## Technologies Used

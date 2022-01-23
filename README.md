@@ -58,17 +58,7 @@ $ source db/schema.sql
   ## License 
   This project is license under MIT License
 
-  ## Issues  
-      
-  Still working on add Departnebts.
-  
-  Error with mysql  Error #1055 Expression of SELECT list is not in GROUP BY clause
-  
-  link to solve error:
-  
-  https://stackoverflow.com/questions/37951742/1055-expression-of-select-list-is-not-in-group-by-clause-and-contains-nonaggr
-
-
+ 
   ## Questions
   If you have any questions about this projects, please contact me directly at acmcalvo@yahoo.com. 
   You can view more of my projects at https://github.com/acmcalvo.

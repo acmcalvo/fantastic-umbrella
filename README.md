@@ -51,7 +51,7 @@ https://user-images.githubusercontent.com/91921941/150698933-d313618f-3cf4-4b04-
 
   * Run the following to create and seeded the tables:<br/>
     ```
- $ npm run seed
+    $ npm run seed
    ```
    
   ## Repository

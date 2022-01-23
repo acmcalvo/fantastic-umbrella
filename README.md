@@ -20,10 +20,11 @@ This week challenge is to build the back end for an e-commerce site.
   
   ## Presentation
   
-https://user-images.githubusercontent.com/91921941/150061648-2bb6b800-15e2-4544-8766-46eaf2944afc.mp4
+https://user-images.githubusercontent.com/91921941/150698933-d313618f-3cf4-4b04-ad1a-3f4c093f457f.mp4
   
   If you have trouble watching the demo video, please use this link: 
- https://watch.screencastify.com/v/6qYw0FblosR9MdPN2Psf
+  https://watch.screencastify.com/v/1vC0KZdnjeGMf6rAVNLr
+
 
   
   ## Technologies Used
@@ -42,15 +43,15 @@ https://user-images.githubusercontent.com/91921941/150061648-2bb6b800-15e2-4544-
   * Run the following to create the Database ecommerce_db:, 
 $ source db/schema.sql
 
-  * follow the prompts for each selection.
-  
-  * Select Exit Menu to quit.
+  Run the following to create and seeded the tables:
+ $ npm run seed
+ 
+
 
 
   ## Repository
   
-  Github: https://github.com/acmcalvo/Employee_Tracker.git
-  
+  Github: 
   
 
   ## License 

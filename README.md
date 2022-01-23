@@ -53,6 +53,11 @@ https://user-images.githubusercontent.com/91921941/150698933-d313618f-3cf4-4b04-
     ```
     $ npm run seed
     ```
+    
+     * Star the server with: <br/>
+    ```
+    $ npm start
+    ```
    
   ## Repository
   

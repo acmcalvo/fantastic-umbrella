@@ -39,9 +39,10 @@ https://user-images.githubusercontent.com/91921941/150698933-d313618f-3cf4-4b04-
 
    ## Installation
    
-   * run $ mysql -u root -p
+   * run <br/>
+  $ mysql -u root -p
 
-  * Run the following to create the Database ecommerce_db:, 
+  * Run the following to create the Database ecommerce_db: <br/>
 $ source db/schema.sql
 
   Run the following to create and seeded the tables:

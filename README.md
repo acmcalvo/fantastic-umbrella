@@ -39,18 +39,20 @@ https://user-images.githubusercontent.com/91921941/150698933-d313618f-3cf4-4b04-
 
    ## Installation
    
-   * run <br/>
+   * run
+   *   ```
   $ mysql -u root -p
+    ```
 
-  * Run the following to create the Database ecommerce_db: <br/>
+  * Run the following to create the Database ecommerce_db:
+    ```
 $ source db/schema.sql
+  ```
 
-  * Run the following to create and seeded the tables: <br/>
+  * Run the following to create and seeded the tables:
+    ```
  $ npm run seed
- 
-
-
-
+   ```
   ## Repository
   
   Github: 
